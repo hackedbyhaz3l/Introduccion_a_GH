@@ -1,0 +1,23 @@
+# Introduction to GitHub
+
+## ¿Qué es Git?
+Ea un sistema de control de versiones distribuido y que registra el historial de cambios de un proyecto localmente, permitiendonos revertir, comparar y ramificar el código sin depender de un servidor central.
+
+## ¿Qué es GitHub?
+Es una Plataforma en la nube que aloja repositorios y añade colaboración  (Issues, Pull Requests, Actions, revisiones de código) sobre la base de Git.
+
+## Git vs GitHub
+
+- **Git**: Ea un herramienta/software que corre localmente para versionar código.
+  
+- **GitHub**: Un servicio web que aloja repositorios (Git) y agrega herramientas de colaboración.
+
+## ¿Qué es un commit?
+
+Una "fotografía" que  guarda el estado del archivo o archivoss en un momento dado, con un mensaje describiendo el cambio.
+
+## ¿Qué es un branch?
+Una línea de desarrollo independiente dentro del repo, este nos permite trabajar en cambios sin afectar la rama principal hasta que estén listos.
+
+## ¿Qué es un Pull Request (PR)?
+Nos ayuda a  fusionar los cambios de una rama hacia otra, y ns p[ermite revisión de código, comentarios y discusión antes del ser publicado.
